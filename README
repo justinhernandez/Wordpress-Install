@@ -1,5 +1,8 @@
 Simple php script that install the latest version of wordpress to the current directory.
 
+WHY?
+It's a lot easier to use this, then to upload individual wordpress files manually. Also just incase you don't have access to cpanel.
+
 1) checks folder settings
 2) downloads the latest wordpress to the temp directory
 3) unzips wordpress to current directory
